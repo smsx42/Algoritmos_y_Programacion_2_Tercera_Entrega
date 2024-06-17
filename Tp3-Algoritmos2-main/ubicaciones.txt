@@ -1,0 +1,8 @@
+1 (0, 0)
+escuela (1, 10)
+escuela (4, 0)
+mina (5, 1)
+2 (3, 0)
+aserradero (14, 4)
+fabrica (5, 14)
+mina oro (13, 6)
