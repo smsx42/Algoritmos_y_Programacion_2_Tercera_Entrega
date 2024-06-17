@@ -1,1 +1,3 @@
-# Tp3-Algoritmos2
+# Algoritmos_y_Programacion_2_Tercera_Entrega Linux-C++
+
+Esta entrega se realizó de a tres personas en donde se buscó mejorar la práctica de la POO mediante la utilización de herencia y Polimorfismo en combinación al memoria dinámica; así mismo, se implementaron a mano nuevas estructuras de datos vistas en la materia entre las que se encuentras una lista indexada, un Map implementado mediante un Árbol de Búsqueda Binaria (ABB) que funcionaba como diccionario y un la implementación de un Grafo Dirigido; todos utilizando memoria dinámica para su funcionamiento. En el de Grafo, hubo que implementar un algoritmo de recorrido de camino mínimo, que en este caso se utilizó el algoritmo de Floyd-Warshal.
